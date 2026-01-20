@@ -42,3 +42,16 @@ Python, Pandas, NumPy, Jupyter, (optional) scikit-learn
 - Add evaluation metrics and sensitivity analysis
 - Build a small web UI to upload a dataset and view rankings
 
+- ---
+
+## How to Run (Local)
+
+### Requirements
+- Python 3.x
+- pandas
+
+Install dependency:
+```bash
+pip install pandas
+
+
